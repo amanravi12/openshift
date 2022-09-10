@@ -1,3 +1,3 @@
 <?php
-print "hello main";
+print "hello main updated";
 ?>
